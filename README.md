@@ -24,4 +24,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Pruthviraj36&show_icons=true&locale=en" alt="virajodedra" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pruthviraj36&" alt="virajodedra" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pruthviraj36&" alt="Pruthviraj36" /></p>
