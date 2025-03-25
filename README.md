@@ -1,4 +1,4 @@
-![MasterHead](https://img.freepik.com/free-vector/programmer-typographic-header-idea-coding-testing-writing-program-using-internet-different-software-website-development-optimization-isolated-vector-illustration_613284-2751.jpg)
+![MasterHead](https://img.freepik.com/free-vector/programmer-typographic-header-idea-coding-testing-writing-program-using-internet-different-software-website-development-optimization-isolated-vector-i)
 
 <h1 align="center">Hi 👋, I'm Chauhan Pruthviraj</h1>
 <h3 align="center">A Passionate Backend Developer from India</h3>
