@@ -9,7 +9,7 @@
 
 ## About Me
 - 🌱 I’m currently learning **Data Structures in Java**
-- 💬 Ask me about **Java, C, HTML, JavaScript, SQL**
+- 💬 Ask me about **Java, C, HTML, JavaScript, SQL, Flutter, React, Bash, C, C++**
 - 📫 How to reach me: **chauhanpruthviraj309@gmail.com**
 - ⚡ Fun fact: **Coding is not so hard**
 
